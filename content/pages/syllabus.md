@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a4722450-e1e8-dc64-95c1-c37d41b2e7c8
 ---
@@ -23,7 +25,7 @@ The goals of this course are three-fold:
 
 1.  Give you a solid grounding in historically informed International Relations
 2.  Introduce the concepts, vocabulary, and theories of International Relations
-3.  Use these concepts, vocabulary, and theories to analyze issues facing political leaders and societies. This is a heavily analytical course; critical thinking is required equipment.1
+3.  Use these concepts, vocabulary, and theories to analyze issues facing political leaders and societies. This is a heavily analytical course; critical thinking is required equipment.{{< sup "{{< sub \"1\" >}}" >}}
 
 My intent is not to teach you ‘facts’ or measure your ability to commit them to memory by rote. While there are dates and actors that will be of significance, of far more importance will be your ability to take the concepts and theories we discuss in class and use them to analyze issues confronting societies and the policy responses mounted by political leaders. The only exception to this general claim pertains to geography. Where states are located and who their neighbors are (i.e. their geography) is an important aspect of international relations. To this end, I expect you to have a good general idea of which states are located where, and you will be graded on this knowledge.
 
@@ -133,5 +135,5 @@ Final policy memo
 
 For more detail on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
-1Professor Jason Enia at Sam Houston State University defines critical thinking in the International Relations context thus:  
+{{< sup "1" >}}Professor Jason Enia at Sam Houston State University defines critical thinking in the International Relations context thus:  
 “Critical thinking is not about blindly accepting the wisdom of the ‘talking heads’ you see on television or the information you get online. It is about admitting and being comfortable with uncertainty. In the complex arena of international politics—where there are almost always multiple and competing assessments of and solutions to international problems—this type of analysis is crucial. It includes the ability _to break a problem into its component parts, to question assumptions, to recognize and critically assess multiple and competing sources of information, to evaluate alternative perspectives on problems, and finally to design and evaluate solutions to those problems._ The value of the study of the social sciences lies in the development of these critical thinking skills.”
