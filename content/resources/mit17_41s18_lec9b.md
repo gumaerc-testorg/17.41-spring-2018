@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 43f38083-b3d6-f981-b9a3-2e163451522a
 resourcetype: Document
 title: '17.41_S18 Lecture 9B: Buzan and Little, Chapter 5'
 uid: 2c1354f8-6ab8-d47e-75dd-c0810cb0be5f
