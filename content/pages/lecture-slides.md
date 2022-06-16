@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the course lecture slides.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Realism (PDF - 2MB)]({{< baseurl >}}/resources/mit17_41s18_lec2)
+{{% resource_link 41afa951-1216-e845-0151-3ef678fb8a59 "Realism (PDF - 2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Liberalism (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec3)
+{{% resource_link e17ab41b-2fe8-2060-ba8c-b36adf3fba32 "Liberalism (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Marxism (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec4)
+{{% resource_link 6317d421-2e71-8b55-238f-3844772cd10b "Marxism (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Global Political Economy (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec5)
+{{% resource_link 3ae7a9a5-a7e1-0097-01e7-94b63d04f69d "Global Political Economy (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Constructivism (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec6)
+{{% resource_link 609d8287-7809-49fd-485c-b60811d700a1 "Constructivism (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +73,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Poststructuralism and Post-colonialism (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec7)
+{{% resource_link 9a05e73d-870a-c5d7-08d5-4926296e0e09 "Poststructuralism and Post-colonialism (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +86,7 @@ TOPICS
 
 Challenging IR Theory
 
-[Buzan and Little, Chapters 1 & 2 (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec8)
+{{% resource_link d5845739-cdf1-faea-e9bb-506ebd94a403 "Buzan and Little, Chapters 1 & 2 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -100,9 +101,9 @@ Challenging IR Theory
 
 Theoretical Toolkit I & II
 
-[Buzan and Little, Chapter 4 (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec9a)
+{{% resource_link 8dede69d-c470-4f5f-85cf-01c56808d05b "Buzan and Little, Chapter 4 (PDF)" %}}
 
-[Buzan and Little, Chapter 5 (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec9b)
+{{% resource_link 2c1354f8-6ab8-d47e-75dd-c0810cb0be5f "Buzan and Little, Chapter 5 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -117,7 +118,7 @@ Theoretical Toolkit I & II
 
 Pre-international Systems
 
-[Buzan and Little, Chapters 6 & 7 (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec10)
+{{% resource_link 8ceff15d-5369-d162-069a-18dfb73f45ad "Buzan and Little, Chapters 6 & 7 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -132,7 +133,7 @@ Pre-international Systems
 
 Ancient and Classical Systems I & II
 
-[Buzan and Little, Chapters 8 & 9 (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec11)
+{{% resource_link 9f2b4776-15ff-7e42-e835-c0348ebb0c4c "Buzan and Little, Chapters 8 & 9 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -147,7 +148,7 @@ Ancient and Classical Systems I & II
 
 Ancient and Classical Systems III
 
-[Buzan and Little, Chapters 10 & 11 (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec12)
+{{% resource_link e5f520fa-22a8-e558-f9ed-a7d842ef0d87 "Buzan and Little, Chapters 10 & 11 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -162,7 +163,7 @@ Ancient and Classical Systems III
 
 Modern System I & II
 
-[Buzan and Little, Chapters 12 & 13 (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec13)
+{{% resource_link 2b050a94-8fdf-687e-aa01-733c62ea1dda "Buzan and Little, Chapters 12 & 13 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -177,7 +178,7 @@ Modern System I & II
 
 Modern System III
 
-[Buzan and Little, Chapters 14 & 15 (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec14)
+{{% resource_link 9d760cdc-9b39-ea3f-bd8d-40f9e83ca46d "Buzan and Little, Chapters 14 & 15 (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -192,7 +193,7 @@ Modern System III
 
 Postmodern System / World History and IR
 
-[Buzan and Little, Chapters 16 & 17 (PDF - 1MB)]({{< baseurl >}}/resources/mit17_41s18_lec16)
+{{% resource_link a713613d-dba8-8400-6c8a-2607c75093f5 "Buzan and Little, Chapters 16 & 17 (PDF - 1MB)" %}}
 
 
 {{< tdclose >}}
@@ -203,7 +204,7 @@ Postmodern System / World History and IR
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Environmental Issues (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec17)
+{{% resource_link a087bd6c-ef7f-7f56-e1d4-48b1b7a29d18 "Environmental Issues (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,9 +215,9 @@ Postmodern System / World History and IR
 {{< tdopen >}}
 
 
-[The United Nations (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec18a) 
+{{% resource_link 617320d6-99ee-d3e9-cb2e-61aeb6568b26 "The United Nations (PDF)" %}} 
 
-[International Law (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec18b)
+{{% resource_link ae7d4c8b-aeb4-ae8d-3211-a7e2e766708e "International Law (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -227,7 +228,7 @@ Postmodern System / World History and IR
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[International Organizations (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec19)
+{{% resource_link e913f08b-af16-e0d8-a9a1-42cf4e15b77d "International Organizations (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,9 +239,9 @@ Postmodern System / World History and IR
 {{< tdopen >}}
 
 
-[War (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec20a)
+{{% resource_link 81169a1f-15b2-3096-2660-e79110abfa61 "War (PDF)" %}}
 
-[International and Global Security (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec20b)
+{{% resource_link b9cce151-d03b-6964-8393-3609c9ec49e8 "International and Global Security (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -253,9 +254,9 @@ Postmodern System / World History and IR
 {{< tdopen >}}
 
 
-[Human Security (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec21a)
+{{% resource_link defa961c-e515-cb3c-6ace-dcd6760f5ab4 "Human Security (PDF)" %}}
 
-[Terrorism (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec21b)
+{{% resource_link 858118c5-ac57-c66c-2709-c3845092e02a "Terrorism (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -266,7 +267,7 @@ Postmodern System / World History and IR
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[WMD Proliferation (PDF - 1.5MB)]({{< baseurl >}}/resources/mit17_41s18_lec22)
+{{% resource_link e5a36678-07ad-b694-e1cf-0ff4be3efee5 "WMD Proliferation (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -277,9 +278,9 @@ Postmodern System / World History and IR
 {{< tdopen >}}
 
 
-[Human Rights (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec23a)
+{{% resource_link e0da4452-d92b-dea5-b299-9b8425870987 "Human Rights (PDF)" %}}
 
-[Poverty, Development, and Hunger (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec23b)
+{{% resource_link 7c4bb5d0-f516-b07d-7e69-1d5fa1ea0a59 "Poverty, Development, and Hunger (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -290,7 +291,7 @@ Postmodern System / World History and IR
 24
 {{< tdclose >}}
 {{< tdopen >}}
-[Global Trade and Finance (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec24)
+{{% resource_link a59be2a9-5557-34de-633b-7edd35af8686 "Global Trade and Finance (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -301,9 +302,9 @@ Postmodern System / World History and IR
 {{< tdopen >}}
 
 
-[Race (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec25a)
+{{% resource_link acab69e1-4a5c-d91e-61d9-ab4357991ff9 "Race (PDF)" %}}
 
-[Gender (PDF - 2MB)]({{< baseurl >}}/resources/mit17_41s18_lec25b)
+{{% resource_link e8dfe843-8d4b-6311-540f-3cfeccd931d8 "Gender (PDF - 2MB)" %}}
 
 
 {{< tdclose >}}
@@ -314,7 +315,7 @@ Postmodern System / World History and IR
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[Nationalism (PDF)]({{< baseurl >}}/resources/mit17_41s18_lec26)
+{{% resource_link 19135b12-f040-bc51-373a-b4a84200ee7e "Nationalism (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

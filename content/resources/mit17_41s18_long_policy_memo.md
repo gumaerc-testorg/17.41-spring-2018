@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-41-introduction-to-international-relations-spring-2018/2e2b0003cb0b6e4e3e3955fe49868748_MIT17_41S18_Long_Policy_Memo.pdf
+file: /courses/17-41-introduction-to-international-relations-spring-2018/2e2b0003cb0b6e4e3e3955fe49868748_MIT17_41S18_Long_Policy_Memo.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
