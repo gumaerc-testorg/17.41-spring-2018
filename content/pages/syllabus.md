@@ -1,29 +1,29 @@
 ---
 content_type: page
+description: ''
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a4722450-e1e8-dc64-95c1-c37d41b2e7c8
 ---
-
-Course Meeting Times 
----------------------
+## Course Meeting Times 
 
 Lectures: 2 sessions / week, 1 hour / session
 
-Prerequisites
--------------
+## Prerequisites
 
 There are no prerequisites for this course.
 
-Goals, Requirements, and Expectations
--------------------------------------
+## Goals, Requirements, and Expectations
 
 Theory is not separate from the world; it constructs what we see.
 
 The goals of this course are three-fold:
 
-1.  Give you a solid grounding in historically informed International Relations
-2.  Introduce the concepts, vocabulary, and theories of International Relations
-3.  Use these concepts, vocabulary, and theories to analyze issues facing political leaders and societies. This is a heavily analytical course; critical thinking is required equipment.1
+1. Give you a solid grounding in historically informed International Relations
+2. Introduce the concepts, vocabulary, and theories of International Relations
+3. Use these concepts, vocabulary, and theories to analyze issues facing political leaders and societies. This is a heavily analytical course; critical thinking is required equipment. ¹
 
 My intent is not to teach you ‘facts’ or measure your ability to commit them to memory by rote. While there are dates and actors that will be of significance, of far more importance will be your ability to take the concepts and theories we discuss in class and use them to analyze issues confronting societies and the policy responses mounted by political leaders. The only exception to this general claim pertains to geography. Where states are located and who their neighbors are (i.e. their geography) is an important aspect of international relations. To this end, I expect you to have a good general idea of which states are located where, and you will be graded on this knowledge.
 
@@ -35,11 +35,11 @@ This is a lecture-based class with as much question and answer during each class
 
 _Objectives for Students_
 
-*   Analyze and understand the major themes of international relations and global politics
-*   Develop an appreciation of theory and its utility in the study and practice of International Relations
-*   Improve critical thinking and writing skills
-*   Demonstrate the ability to describe the social, political, and economic forces that influence social behavior and the global system
-*   Use knowledge of international affairs in a practical problem-solving way to address issues of immediate international concern
+- Analyze and understand the major themes of international relations and global politics
+- Develop an appreciation of theory and its utility in the study and practice of International Relations
+- Improve critical thinking and writing skills
+- Demonstrate the ability to describe the social, political, and economic forces that influence social behavior and the global system
+- Use knowledge of international affairs in a practical problem-solving way to address issues of immediate international concern
 
 _Course Texts_
 
@@ -49,89 +49,47 @@ Baylis, John, Steve Smith, and Patricia Owens, eds. _The Globalization of World 
 
 Buzan, Barry, and Richard Little. _International Systems in World History: Remaking the Study of International Relations_. Oxford University Press, 2000. ISBN: 9780198780656. 
 
-We will also regularly incorporate discussion of contemporary events (and exams may reference them), so you should keep up on what is happening in the world by regularly reading a current events news source like the _[New York Times](https://www.nytimes.com/)_ or the _[Economist](https://www.economist.com/)_.
+We will also regularly incorporate discussion of contemporary events (and exams may reference them), so you should keep up on what is happening in the world by regularly reading a current events news source like the [_New York Times_](https://www.nytimes.com/) or the [_Economist_](https://www.economist.com/).
 
-For detailed information, see the [Readings]({{< baseurl >}}/pages/readings) section.
+For detailed information, see the {{% resource_link aabd819f-a5dd-0f77-f9b2-fc63e7e64129 "Readings" %}} section.
 
 _Course Grading_
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 PERCENTAGES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 
 Discussion section participation
 
-_The course has three excellent teaching assistants whose job is to help you better understand the material. Each week you will have an opportunity to bring your questions and insights to your discussion section in a dialogue with the TAs. As the enrollment is too large for participation to be feasible in lecture, you will be assessed on participation in discussion section. The TAs will be primarily interested in your engagement with the material, your fellow students, and the TAs._ 
+_The course has three excellent teaching assistants whose job is to help you better understand the material. Each week you will have an opportunity to bring your questions and insights to your discussion section in a dialogue with the TAs. As the enrollment is too large for participation to be feasible in lecture, you will be assessed on participation in discussion section. The TAs will be primarily interested in your engagement with the material, your fellow students, and the TAs._
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 20%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Map quiz
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 5%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Midterm exam
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 15%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Final exam (cumulative)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 25%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Short policy memos (3 x 5% each)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 15%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Final policy memo
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 20%
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
+For more detail on the activities above, see the {{% resource_link 1e8eb31a-40be-962b-52c8-d4666125ac33 "Assignments" %}} section.
 
-{{< tableclose >}}
-
-For more detail on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
-
-1Professor Jason Enia at Sam Houston State University defines critical thinking in the International Relations context thus:  
-“Critical thinking is not about blindly accepting the wisdom of the ‘talking heads’ you see on television or the information you get online. It is about admitting and being comfortable with uncertainty. In the complex arena of international politics—where there are almost always multiple and competing assessments of and solutions to international problems—this type of analysis is crucial. It includes the ability _to break a problem into its component parts, to question assumptions, to recognize and critically assess multiple and competing sources of information, to evaluate alternative perspectives on problems, and finally to design and evaluate solutions to those problems._ The value of the study of the social sciences lies in the development of these critical thinking skills.”
+_¹_ Professor Jason Enia at Sam Houston State University defines critical thinking in the International Relations context thus:   
+“Critical thinking is not about blindly accepting the wisdom of the ‘talking heads’ you see on television or the information you get online. It is about admitting and being comfortable with uncertainty. In the complex arena of international politics—where there are almost always multiple and competing assessments of and solutions to international problems—this type of analysis is crucial. It includes the ability to break a problem into its component parts, to question assumptions, to recognize and critically assess multiple and competing sources of information, to evaluate alternative perspectives on problems, and finally to design and evaluate solutions to those problems. The value of the study of the social sciences lies in the development of these critical thinking skills.”
