@@ -5,6 +5,7 @@ file: /courses/17-41-introduction-to-international-relations-spring-2018/4d24034
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
