@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-41-introduction-to-international-relations-spring-2018/4d24034bfdbc79ca106340fd0691fd64_MIT17_41S18_Short_Policy_Memo.pdf
+file: /ol-ocw-studio-app/courses/17-41-introduction-to-international-relations-spring-2018/4d24034bfdbc79ca106340fd0691fd64_MIT17_41S18_Short_Policy_Memo.pdf
+file_size: 194186
 file_type: application/pdf
 learning_resource_types:
 - Assignments

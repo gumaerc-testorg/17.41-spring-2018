@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-41-introduction-to-international-relations-spring-2018/8dede69dc4704f5f85cf01c56808d05b_MIT17_41S18_lec9a.pdf
+file: /ol-ocw-studio-app/courses/17-41-introduction-to-international-relations-spring-2018/8dede69dc4704f5f85cf01c56808d05b_MIT17_41S18_lec9a.pdf
+file_size: 693871
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
